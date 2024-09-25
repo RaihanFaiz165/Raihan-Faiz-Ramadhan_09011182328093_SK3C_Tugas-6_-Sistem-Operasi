@@ -132,6 +132,7 @@ $ kill [Nomor PID]
 
 
 6. History
+
 a. Ganti nilai HISTSIZE dari 1000 menjadi 20
 $ HISTSIZE=20
 $ h
@@ -140,6 +141,7 @@ $ h
 b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir
 dilakukan
 $ !-5
+
 c. Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer
 $ !!
 ![28](https://github.com/RaihanFaiz165/Raihan-Faiz-Ramadhan_09011182328093_SK3C_Tugas-6_-Sistem-Operasi/blob/main/Screenshot%20tugas%206/(6.2).png)
